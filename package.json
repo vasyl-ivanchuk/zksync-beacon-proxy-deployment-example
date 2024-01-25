@@ -1,0 +1,18 @@
+{
+  "name": "zksync-beacon-proxy-deployment-example",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@matterlabs/hardhat-zksync-deploy": "^1.0.0",
+    "@matterlabs/hardhat-zksync-upgradable": "^1.0.0",
+    "@openzeppelin/contracts": "^4.9.2",
+    "@openzeppelin/contracts-upgradeable": "^4.9.2",
+    "dotenv": "^16.0.3",
+    "ethers": "^6.9.0",
+    "hardhat": "^2.19.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.5",
+    "zksync-ethers": "^6.1.0"
+  }
+}
