@@ -1,0 +1,1 @@
+# zksync-beacon-proxy-deployment-example
